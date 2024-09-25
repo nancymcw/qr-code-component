@@ -1,6 +1,21 @@
-body,
-#container,
+#qr-code-card {
+  border: 2px solid yellow;
+}
+
+#container {
+  border: 2px solid red;
+  display: flex;
+}
+
 #qr-code-head {
+  border: 2px solid limegreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#qr-code-body {
+  border: 2px solid blue;
   display: flex;
   justify-content: center;
   align-items: center;
