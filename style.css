@@ -5,7 +5,9 @@ body {
 .qr-code-card {
   background-color: white;
   border: 2px solid yellow;
+  border-radius: 10px;
   margin: 30px;
+  padding: 30px;
 }
 
 .qr-code-head {
