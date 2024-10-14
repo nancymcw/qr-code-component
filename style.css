@@ -21,6 +21,8 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   /*end lines to center vertically*/
+  box-shadow: 0 4px 8px 0 hsla(216, 15%, 48%, 0.2),
+    0 6px 20px 0 hsla(216, 15%, 48%, 0.19);
 }
 
 .qr-code-head {
