@@ -22,13 +22,16 @@ body {
 
 .qr-code-body {
   border: 2px solid blue;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  /* display: flex; */
 }
 
 #qr-code-image {
   width: 15rem;
   /* width: 350px; */
   border-radius: 10px;
+}
+
+h3 {
+  margin-bottom: 0px;
+  color: black;
 }
